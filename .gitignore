@@ -1,14 +1,15 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.deb
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
+# Mengabaikan folder cache Python
+__Pycache__/
++.py[cod]
+*py.class
 
-pkg/
-src/
+# Mengabaikan file log
+*.log
+
+# Mengabaikan folder virtual environment
+venv/
+env/
+
+# Mengabaikan file sementara sistem
+.DS_Store
+Thumbs.db
