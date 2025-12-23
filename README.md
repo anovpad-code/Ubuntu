@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ThinkPad](https://img.shields.io/badge/ThinkPad-%23E0212E.svg?style=for-the-badge&logo=lenovo&logoColor=white)
 
 
 
