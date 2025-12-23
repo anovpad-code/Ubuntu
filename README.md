@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-12-22 at 14 05 24_76446fc3](https://github.com/user-attachments/assets/4d9a95c5-f25b-467e-8bbf-9c49b3a9e7e4)# Ubuntu on WSL (Python Learning Environment)
+Ubuntu on WSL (Python Learning Environment)
 
 Project ini berisi dokumentasi penggunaan *Ubuntu 24.04 LTS* di *WSL2 (Windows)*  
 sebagai environment belajar *Linux & Python*.
